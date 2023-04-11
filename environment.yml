@@ -13,5 +13,7 @@ dependencies:
  - pandas
  - scipy
  - xarray
+ - dask
+ - cftime
  - pip:
    - pygeode==1.4.1
