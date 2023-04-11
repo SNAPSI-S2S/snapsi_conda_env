@@ -1,0 +1,30 @@
+name: snapsi
+channels:
+ - conda-forge
+dependencies:
+ - cartopy
+ - cfgrib
+ - eofs
+ - ffmpeg
+ - h5netcdf
+ - h5py
+ - intake
+ - ipykernel
+ - ipython
+ - iris
+ - matplotlib-base
+ - metpy
+ - nb_conda_kernels
+ - nc-time-axis
+ - netcdf4
+ - numpy
+ - pandas
+ - regionmask
+ - scipy
+ - tqdm
+ - xarray
+ - xarray_leaflet
+ - xarray-spatial
+ - xclim
+ - xgcm
+
